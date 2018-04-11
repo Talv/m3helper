@@ -1,0 +1,8 @@
+/.vscode
+/__pycache__
+/build
+/dist
+/test*
+*.pyc
+*.egg-info
+config.toml

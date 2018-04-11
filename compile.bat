@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="m3helper\ui\icon.ico" --path "C:\Program Files (x86)\Python35-32\Lib\site-packages\PyQt5\Qt\bin" --name m3helper run.py
